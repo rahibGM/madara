@@ -1,0 +1,2 @@
+# madara
+chortcut exe
